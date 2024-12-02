@@ -15,6 +15,7 @@ const config = {
     alias: {
       $components: "src/lib/components",
       $paraglide: "src/lib/paraglide",
+      $assets: "src/lib/assets",
     },
   },
 };
